@@ -1,19 +1,18 @@
-# 👋 ¡Hola! Soy Ezequiel Sosa  
+# 👋 Hi! I'm Ezequiel Sosa  
 
 💻 **Semi Senior Software Developer**  
-📍 Buenos Aires, Argentina  
 
 ---
 
-## 🚀 Sobre mí  
-Apasionado por crear soluciones innovadoras y escalables, con un enfoque en el rendimiento y la calidad del código.  
-Amante del aprendizaje continuo y de los desafíos técnicos.  
+## 🚀 About Me  
+Passionate about creating innovative and scalable solutions, with a focus on performance and code quality.  
+A lover of continuous learning and technical challenges.  
 
-> *"Persevera y triunfarás"* 💪
+> *"Persevere and you will succeed"* 💪
 
 ---
 
-## 🛠 Tecnologías y herramientas  
+## 🛠 Technologies & Tools  
 ![MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=flat&logo=.net&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -22,18 +21,18 @@ Amante del aprendizaje continuo y de los desafíos técnicos.
 
 ---
 
-## 📌 Actividad en GitHub  
-> ⚠️ **Nota:** gran parte de mis contribuciones son en repositorios privados de la empresa, por eso la actividad pública no refleja toda mi experiencia y trabajo diario.
+## 📌 GitHub Activity  
+> ⚠️ **Note:** most of my contributions are to private company repositories, so public activity does not reflect all my experience and daily work.
 
 ---
 
-## 📌 Actualmente  
-- 💼 Trabajando en **Bechsud S.A.**
-- 📚 *Siempre mejorando mis skills y ampliando conocimiento*
+## 📌 Currently  
+- 💼 Working at **Bechsud S.A.**
+- 📚 *Always improving my skills and expanding knowledge*
 
 ---
 
-## 🌐 Conectemos  
+## 🌐 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezequiel%20Sosa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ezequiel-sosa-b91862153/)  
 
 ---
