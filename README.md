@@ -22,8 +22,18 @@ Amante del aprendizaje continuo y de los desafíos técnicos.
 
 ---
 
-## 📈 Estadísticas de GitHub  
-> ⚠️ **Nota:** gran parte de mis contribuciones son en repositorios privados de la empresa, por eso los números públicos pueden no reflejar toda mi actividad.
+## 📌 Actividad en GitHub  
+> ⚠️ **Nota:** gran parte de mis contribuciones son en repositorios privados de la empresa, por eso la actividad pública no refleja toda mi experiencia y trabajo diario.
 
-![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EzequielSosa&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielSosa&layout=compa)
+---
+
+## 📌 Actualmente  
+- 💼 Trabajando en **Bechsud S.A.**
+- 📚 *Siempre mejorando mis skills y ampliando conocimiento*
+
+---
+
+## 🌐 Conectemos  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezequiel%20Sosa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ezequiel-sosa-b91862153/)  
+
+---
