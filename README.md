@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ezequiel Sosa  
 
-<!--
-**EzequielSosa99/EzequielSosa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Semi Senior Software Developer**  
+📍 Buenos Aires, Argentina  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí  
+Apasionado por crear soluciones innovadoras y escalables, con un enfoque en el rendimiento y la calidad del código.  
+Amante del aprendizaje continuo y de los desafíos técnicos.  
+
+> *"Persevera y triunfarás"* 💪
+
+---
+
+## 🛠 Tecnologías y herramientas  
+![MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=flat&logo=.net&logoColor=white)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+---
+
+## 📈 Estadísticas de GitHub  
+![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EzequielSosa&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielSosa&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=EzequielSosa&theme=radical&hide_border=false)  
+
+---
+
+## 📌 Actualmente  
+- 💼 Trabajando en **Bechsud S.A.**
+- 📚 *Siempre mejorando mis skills y ampliando conocimiento*
+
+---
+
+## 🌐 Conectemos  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezequiel%20Sosa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ezequiel-sosa-b91862153/)  
+
+---
