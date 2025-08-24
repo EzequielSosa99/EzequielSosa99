@@ -5,8 +5,9 @@
 ---
 
 ## 🚀 About Me  
-Passionate about creating innovative and scalable solutions, with a focus on performance and code quality.  
-A lover of continuous learning and technical challenges.  
+Passionate about creating innovative and scalable solutions, with a strong focus on performance and code quality.
+A lover of continuous learning and technical challenges.
+Outside of coding, I’m passionate about the gym, football, and spending time with my cats.  
 
 > *"Persevere and you will succeed"* 💪
 
