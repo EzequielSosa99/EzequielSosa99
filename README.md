@@ -22,11 +22,6 @@ Outside of coding, I’m passionate about the gym, football, and spending time w
 
 ---
 
-## 📌 GitHub Activity  
-> ⚠️ **Note:** most of my contributions are to private company repositories, so public activity does not reflect all my experience and daily work.
-
----
-
 ## 📌 Currently  
 - 💼 Working at **Bechsud S.A.**
 - 📚 *Always improving my skills and expanding knowledge*
