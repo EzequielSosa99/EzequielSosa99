@@ -22,11 +22,6 @@ Outside of coding, I’m passionate about the gym, football, and spending time w
 
 ---
 
-## 📌 Currently  
-- 💼 Working at **Bechsud S.A.**
-- 📚 *Always improving my skills and expanding knowledge*
-
----
 
 ## 🌐 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezequiel%20Sosa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ezequiel-sosa-b91862153/)  
